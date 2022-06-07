@@ -1,0 +1,1 @@
+# Resets the taskbar to default win 11 settings
